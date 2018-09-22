@@ -1,0 +1,13 @@
+C:\Users\Dave\Documents\Projekte\DnD_Gameplate\DnD_Gameplate\bin\Debug\DnD_Gameplate.exe.config
+C:\Users\Dave\Documents\Projekte\DnD_Gameplate\DnD_Gameplate\bin\Debug\DnD_Gameplate.exe
+C:\Users\Dave\Documents\Projekte\DnD_Gameplate\DnD_Gameplate\bin\Debug\DnD_Gameplate.pdb
+C:\Users\Dave\Documents\Projekte\DnD_Gameplate\DnD_Gameplate\obj\Debug\DnD_Gameplate.csprojResolveAssemblyReference.cache
+C:\Users\Dave\Documents\Projekte\DnD_Gameplate\DnD_Gameplate\obj\Debug\DnD_Gameplate.frm_Mainplate.resources
+C:\Users\Dave\Documents\Projekte\DnD_Gameplate\DnD_Gameplate\obj\Debug\DnD_Gameplate.Properties.Resources.resources
+C:\Users\Dave\Documents\Projekte\DnD_Gameplate\DnD_Gameplate\obj\Debug\DnD_Gameplate.csproj.GenerateResource.Cache
+C:\Users\Dave\Documents\Projekte\DnD_Gameplate\DnD_Gameplate\obj\Debug\DnD_Gameplate.csproj.CoreCompileInputs.cache
+C:\Users\Dave\Documents\Projekte\DnD_Gameplate\DnD_Gameplate\obj\Debug\DnD_Gameplate.exe
+C:\Users\Dave\Documents\Projekte\DnD_Gameplate\DnD_Gameplate\obj\Debug\DnD_Gameplate.pdb
+C:\Users\Dave\Documents\Projekte\DnD_Gameplate\DnD_Gameplate\obj\Debug\DnD_Gameplate.Levelup.resources
+C:\Users\Dave\Documents\Projekte\DnD_Gameplate\DnD_Gameplate\obj\Debug\DnD_Gameplate.NewGame.resources
+C:\Users\Dave\Documents\Projekte\DnD_Gameplate\DnD_Gameplate\obj\Debug\DnD_Gameplate.LoadSaveGame.resources
